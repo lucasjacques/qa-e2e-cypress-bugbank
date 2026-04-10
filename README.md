@@ -1,7 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lucasjacques/avaliacao-tecnica-19_03/2_e2e_tests">
+  <a href="https://github.com/lucasjacques/qa-e2e-cypress-bugbank/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"></h3>

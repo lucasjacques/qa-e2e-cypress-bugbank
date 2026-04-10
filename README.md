@@ -22,7 +22,7 @@ This project contains End-to-End automated tests using Cypress to validate key f
 ## ⚙️ Prerequisites
 
 - Node.js (version 16+ recommended)  
-- npm or yarn  
+- bun or npm or yarn  
 
 ---
 
@@ -31,7 +31,7 @@ This project contains End-to-End automated tests using Cypress to validate key f
 Install dependencies:
 
 ```bash
-npm install
+bun install
 ```
 
 ---
@@ -41,7 +41,7 @@ npm install
 ### Interactive mode (GUI)
 
 ```bash
-npx cypress open
+bunx cypress open
 ```
 
 - Select **E2E Testing**
@@ -53,7 +53,7 @@ npx cypress open
 ### Headless mode (terminal)
 
 ```bash
-npx cypress run
+bunx cypress run
 ```
 
 ---
@@ -99,13 +99,13 @@ To ensure test stability, the following strategies were applied:
 
 ```bash
 # Install dependencies
-npm install
+bun install
 
 # Run tests (GUI)
-npx cypress open
+bunx cypress open
 
 # Run tests (headless)
-npx cypress run
+bunx cypress run
 ```
 
 ---
